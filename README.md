@@ -47,6 +47,8 @@
 	```
 
 	*The best fn are those with no paramaters* - Uncle Bob.
+	
+	
 
 2. **Abstraction**
 
